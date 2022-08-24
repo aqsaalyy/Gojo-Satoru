@@ -14,7 +14,7 @@ global.APIs = {b1da78f7-a381-4871-8c6c-a77fc735670d}
 }
 
 //Api Key\\
-global.APIKeys = {
+global.APIKeys = {b1da78f7-a381-4871-8c6c-a77fc735670d
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
