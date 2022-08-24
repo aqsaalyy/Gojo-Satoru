@@ -9,7 +9,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Api Website\\
-global.APIs = {ZW5UdHUyek4=
+global.APIs = {b1da78f7-a381-4871-8c6c-a77fc735670d}
 	zenz: 'https://zenzapis.xyz',
 }
 
